@@ -14,6 +14,7 @@ Basic information about the country can also be found in  [basic-facts.json](htt
 * **[constitution]** - Constitution draft
 * **[data]** - Open Datasets
 * **[docs]** - Documents in various languages and formats
+* **[resources]** - Related resources
 * **[translations]** - Translation project
 
 ### Technical
@@ -38,3 +39,4 @@ We use various licenses, all are public domain:
 [docs]: https://github.com/liberland/docs
 [docs-tools]: https://github.com/liberland/docs-tools
 [translations]: https://github.com/liberland/translations
+[resources]: https://github.com/liberland/resources
