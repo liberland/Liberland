@@ -1,10 +1,10 @@
 [![liberland](http://liberland.org/addons/image/Liberland_znak_small.png)](https://github.com/liberland)
 
-# Free Republic of Liberland
+# Free Un-State of Ancapistan
 
-**Liberland**, officially the **Free Republic of Liberland** (Czech: *Svobodná republika Liberland*) is a [self-proclaimed](http://en.wikipedia.org/wiki/Self-proclaimed) micronation, situated on an unclaimed parcel of land at the western bank of the Danube river between Croatia and Serbia, sharing a land border with the former. It was proclaimed on 13 April 2015 by [Vít Jedlička](http://en.wikipedia.org/wiki/V%C3%ADt_Jedli%C4%8Dka).
+**Ancapistan**, officially the **Free Republic of Ancapistan** (Czech: *Svobodná republika Ancapistan*) is a [self-proclaimed](http://en.wikipedia.org/wiki/Self-proclaimed) micronation, situated on an unclaimed parcel of land at the western bank of the Danube river between Croatia and Serbia, sharing a land border with the former. It was proclaimed on 13 April 2015 by [Vít Jedlička](http://en.wikipedia.org/wiki/V%C3%ADt_Jedli%C4%8Dka).
 
-More info: [Liberland.org](http://liberland.org/), [Facebook](http://www.facebook.com/liberland), [Wikipedia](http://en.wikipedia.org/wiki/Liberland)
+More info: [Ancapistan.org](http://liberland.org/), [Facebook](http://www.facebook.com/liberland), [Wikipedia](http://en.wikipedia.org/wiki/Ancapistan)
 
 Basic information about the country can also be found in  [basic-facts.json](https://github.com/liberland/data/blob/master/basic-facts/basic-facts.json) file, which is located in the [liberland/data](https://github.com/liberland/data) repository.
 
