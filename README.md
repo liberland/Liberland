@@ -38,6 +38,7 @@ We use various licenses, all are public domain:
 [constitution]: https://github.com/liberland/constitution
 [data]: https://github.com/liberland/data
 [docs]: https://github.com/liberland/docs
+[laws]: https://github.com/liberland/laws
 [docs-tools]: https://github.com/liberland/docs-tools
 [translations]: https://github.com/liberland/translations
 [resources]: https://github.com/liberland/resources
