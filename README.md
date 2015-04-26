@@ -14,6 +14,7 @@ Basic information about the country can also be found in  [basic-facts.json](htt
 * **[constitution]** - Constitution draft
 * **[data]** - Open Datasets
 * **[docs]** - Documents in various languages and formats
+* **[laws]** - Laws and Provisions
 * **[resources]** - Related resources
 * **[translations]** - Translation project
 
