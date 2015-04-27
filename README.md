@@ -27,7 +27,7 @@ Most repositories is open to your suggestions and improvements, so feel free to 
 
 ## [Security team](https://github.com/liberland/cybersecurity)
 
-If you discover or learn about a potential weakness or threat that could compromise the security of Free Republic of Liberland, we ask you to keep it confidential and submit your concern to the [Cybersecurity team][https://github.com/liberland/cybersecurity].
+If you discover or learn about a potential weakness or threat that could compromise the security of Free Republic of Liberland, we ask you to keep it confidential and submit your concern to the [Cybersecurity Team](https://github.com/liberland/cybersecurity).
 
 ## License
 
