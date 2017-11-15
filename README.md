@@ -25,10 +25,6 @@ Basic information about the country can also be found in  [basic-facts.json](htt
 
 Most repositories is open to your suggestions and improvements, so feel free to send a pull request. More information can be found in each repository.
 
-## [Security team](https://github.com/liberland/cybersecurity)
-
-If you discover or learn about a potential weakness or threat that could compromise the security of Free Republic of Liberland, we ask you to keep it confidential and submit your concern to the [Cybersecurity Team](https://github.com/liberland/cybersecurity).
-
 ## License
 
 We use various licenses, all are public domain:
@@ -45,4 +41,3 @@ We use various licenses, all are public domain:
 [laws]: https://github.com/liberland/laws
 [docs-tools]: https://github.com/liberland/docs-tools
 [translations]: https://github.com/liberland/translations
-[resources]: https://github.com/liberland/resources
