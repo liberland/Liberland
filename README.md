@@ -41,7 +41,7 @@ We use various licenses, yet all are public domain:
 
 
 [assets]: https://github.com/liberland/assets
-[constitution]: https://github.com/liberland/constitution
+[constitution]: https://github.com/liberland/constitution/blob/master/Constitution.md
 [data]: https://github.com/liberland/data
 [docs]: https://github.com/liberland/docs
 [laws]: https://github.com/liberland/laws
