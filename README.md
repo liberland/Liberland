@@ -47,3 +47,6 @@ We use various licenses, yet all are public domain:
 [laws]: https://github.com/liberland/laws
 [translations]: https://github.com/liberland/translations
 [docs-tools]: https://github.com/liberland/docs-tools
+[liberland_backend]: https://github.com/liberland/liberland_backend
+[liberland_frontend]: https://github.com/liberland/liberland_frontend
+[liberland_node]: https://github.com/liberland/liberland_node
