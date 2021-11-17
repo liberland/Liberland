@@ -2,7 +2,7 @@
 
 # Free Republic of Liberland
 
-**Liberland**, officially the **Free Republic of Liberland** (Czech: *Svobodná republika Liberland*) is a [self-proclaimed](http://en.wikipedia.org/wiki/Self-proclaimed) micronation, situated on an unclaimed parcel of land at the western bank of the Danube river between Croatia and Serbia, sharing a land border with the former. It was proclaimed on 13 April 2015 by [Vít Jedlička](http://en.wikipedia.org/wiki/V%C3%ADt_Jedli%C4%8Dka).
+**Liberland**, officially the **Free Republic of Liberland** (Czech: *Svobodná republika Liberland*) is a nation situated at the western bank of the Danube river between Croatia and Serbia, sharing a land border with the former. It was proclaimed on 13 April 2015 by [Vít Jedlička](http://en.wikipedia.org/wiki/V%C3%ADt_Jedli%C4%8Dka).
 
 More info: [Liberland.org](http://liberland.org/), [Facebook](http://www.facebook.com/liberland)
 
@@ -18,6 +18,11 @@ Basic information about the country can also be found in  [basic-facts.json](htt
 * **[docs]** - Documents in various languages and formats
 * **[laws]** - Laws and Provisions
 * **[translations]** - Translation project
+
+### Blockchain project (LLM = Liberland merit)
+* **[liberland_backend]** - The backend of the LLM blockchain project, the system itself
+* **[liberland_frontend]** - The user interface providing the UX for the LLM blockchain
+* **[liberland_node]** - The code for the nodes of the blockchain, i.e. for the validators and to download the public chain. 
 
 ### Technical
 * **[docs-tools]** - Build tools for documents
