@@ -19,8 +19,8 @@ Basic information about the country can also be found in  [basic-facts.json](htt
 * **[laws]** - Laws and Provisions
 * **[translations]** - Translation project
 
-### Blockchain project (LLM = Liberland merit)
-* **[liberland_backend]** - The backend of the LLM blockchain project, the system itself
+### Blockchain
+* **[liberland_backend]** - The backend of the LLM (Liberand Merit) blockchain project, the system itself
 * **[liberland_frontend]** - The user interface providing the UX for the LLM blockchain
 * **[liberland_node]** - The code for the nodes of the blockchain, i.e. for the validators and to download the public chain. 
 
