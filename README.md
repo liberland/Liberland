@@ -49,4 +49,4 @@ We use various licenses, yet all are public domain:
 [liberland_backend]: https://github.com/liberland/liberland_backend
 [liberland_frontend]: https://github.com/liberland/liberland_frontend
 [liberland_node]: https://github.com/liberland/liberland_node
-[liberland strategy]: https://github.com/liberland/docs/blob/master/Blockchain%20Strategy
+[liberland strategy]: https://github.com/liberland/docs/blob/master/Blockchain%20Strategy.md
