@@ -21,6 +21,7 @@ Basic information about the country can also be found in  [basic-facts.json](htt
 * **[liberland_backend]** - The backend of the LLM (Liberand Merit) blockchain project, the system itself
 * **[liberland_frontend]** - The user interface providing the UX for the LLM blockchain
 * **[liberland_node]** - The code for the nodes of the blockchain, i.e. for the validators and to download the public chain. 
+* **[liberland strategy]** - The state of the version of the project on this GitHub and the instructions for future development
 
 ### Technical
 * **[docs-tools]** - Build tools for documents
@@ -48,3 +49,4 @@ We use various licenses, yet all are public domain:
 [liberland_backend]: https://github.com/liberland/liberland_backend
 [liberland_frontend]: https://github.com/liberland/liberland_frontend
 [liberland_node]: https://github.com/liberland/liberland_node
+[liberland strategy]: https://github.com/liberland/docs/blob/master/Blockchain%20Strategy
