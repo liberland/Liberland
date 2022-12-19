@@ -6,7 +6,9 @@
 
 More info: [Liberland.org](http://liberland.org/), [Facebook](http://www.facebook.com/liberland)
 
-Basic information about the country can also be found in  [basic-facts.json](https://github.com/liberland/data/blob/master/basic-facts/basic-facts.json) file, which is located in the [liberland/data](https://github.com/liberland/data) repository.
+Basic information about the country can also be found in  [basic-facts.json](https://github.com/liberland/data/blob/master/basic-facts/basic-facts.json) file, which is located in the [liberland/data](https://github.com/liberland/data) repository. 
+
+The GitHub is linked to our [Wiki pages](https://liberland-1.gitbook.io/wiki/v/welcome-to-liberland/), where you can learn more about out young country.
 
 ## Wiki
 * **[Constitution](https://liberland-1.gitbook.io/wiki/)** 
