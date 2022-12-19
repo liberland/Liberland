@@ -1,5 +1,3 @@
-[![liberland](http://liberland.org/addons/image/Liberland_znak_small.png)](https://github.com/liberland)
-
 # Liberland
 
 **Liberland** is a country situated on the western bank of the Danube river between Croatia and Serbia, sharing a land border with the former and a river border with the latter. Liberland was proclaimed on 13 April 2015 by [Vít Jedlička](http://en.wikipedia.org/wiki/V%C3%ADt_Jedli%C4%8Dka).
