@@ -8,6 +8,10 @@ More info: [Liberland.org](http://liberland.org/), [Facebook](http://www.faceboo
 
 Basic information about the country can also be found in  [basic-facts.json](https://github.com/liberland/data/blob/master/basic-facts/basic-facts.json) file, which is located in the [liberland/data](https://github.com/liberland/data) repository.
 
+## Wiki
+* **[Constitution](https://liberland-1.gitbook.io/wiki/)** 
+* **[Laws](https://liberland-1.gitbook.io/wiki/v/laws/)**
+
 ## Repositories
 ### Main
 * **[assets]** - Official symbols (flag, coat of arms, hymn)
