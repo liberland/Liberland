@@ -1,6 +1,6 @@
 # Table of contents
 
 * [🌍 Liberland](README.md)
-* [Constitution](Constitution/Readme.md)
-* [Laws](laws/Readme.md)
+* [Constitution](Constitution/SUMMARY.md)
+* [Laws](laws/SUMMARY.md)
 
