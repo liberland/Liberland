@@ -53,5 +53,5 @@ We use various licenses, yet all are public domain:
 [liberland_backend]: https://github.com/liberland/liberland_backend
 [liberland_frontend]: https://github.com/liberland/liberland_frontend
 [liberland_node]: https://github.com/liberland/liberland_node
-[White Paper]: https://github.com/liberland/docs/blob/master/blockchain/white-paper.md
+[Liberland Blockchain White Paper]: https://github.com/liberland/docs/blob/master/blockchain/white-paper.md
 
